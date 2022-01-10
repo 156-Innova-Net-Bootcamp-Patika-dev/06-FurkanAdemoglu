@@ -57,5 +57,17 @@ namespace FirstWeekProject.Controllers
             return Ok();
         }
 
+        [HttpDelete("{id}")]
+        public IActionResult DeleteProgrammingLanguage(int id)
+        {
+            var programmingLanguage = ProgrammingLanguages.SingleOrDefault(p => p.id == id);
+            if(programmingLanguage is null)
+            {
+                return BadRequest();
+            }
+            ProgrammingLanguages.Remove(programmingLanguage);
+            return Ok();
+        }
+
     }
 }
