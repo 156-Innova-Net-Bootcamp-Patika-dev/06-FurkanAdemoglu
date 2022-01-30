@@ -1,0 +1,7 @@
+D:\Net Projects\CategoryProject\MicroservicesProject\Services\Catalog\Course.Services.Catalog\obj\Release\Debug\net5.0\Course.Services.Catalog.csproj.AssemblyReference.cache
+D:\Net Projects\CategoryProject\MicroservicesProject\Services\Catalog\Course.Services.Catalog\obj\Release\Debug\net5.0\Course.Services.Catalog.GeneratedMSBuildEditorConfig.editorconfig
+D:\Net Projects\CategoryProject\MicroservicesProject\Services\Catalog\Course.Services.Catalog\obj\Release\Debug\net5.0\Course.Services.Catalog.AssemblyInfoInputs.cache
+D:\Net Projects\CategoryProject\MicroservicesProject\Services\Catalog\Course.Services.Catalog\obj\Release\Debug\net5.0\Course.Services.Catalog.AssemblyInfo.cs
+D:\Net Projects\CategoryProject\MicroservicesProject\Services\Catalog\Course.Services.Catalog\obj\Release\Debug\net5.0\Course.Services.Catalog.csproj.CoreCompileInputs.cache
+D:\Net Projects\CategoryProject\MicroservicesProject\Services\Catalog\Course.Services.Catalog\obj\Release\Debug\net5.0\Course.Services.Catalog.MvcApplicationPartsAssemblyInfo.cs
+D:\Net Projects\CategoryProject\MicroservicesProject\Services\Catalog\Course.Services.Catalog\obj\Release\Debug\net5.0\Course.Services.Catalog.MvcApplicationPartsAssemblyInfo.cache

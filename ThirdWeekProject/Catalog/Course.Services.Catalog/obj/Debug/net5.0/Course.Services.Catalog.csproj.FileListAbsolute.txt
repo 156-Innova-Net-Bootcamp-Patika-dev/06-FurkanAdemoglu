@@ -1,0 +1,110 @@
+D:\.Net Projects\CategoryProject\MicroservicesProject\Services\Catalog\Course.Services.Catalog\obj\Debug\net5.0\Course.Services.Catalog.csproj.AssemblyReference.cache
+D:\.Net Projects\CategoryProject\MicroservicesProject\Services\Catalog\Course.Services.Catalog\obj\Debug\net5.0\Course.Services.Catalog.GeneratedMSBuildEditorConfig.editorconfig
+D:\.Net Projects\CategoryProject\MicroservicesProject\Services\Catalog\Course.Services.Catalog\obj\Debug\net5.0\Course.Services.Catalog.AssemblyInfoInputs.cache
+D:\.Net Projects\CategoryProject\MicroservicesProject\Services\Catalog\Course.Services.Catalog\obj\Debug\net5.0\Course.Services.Catalog.AssemblyInfo.cs
+D:\.Net Projects\CategoryProject\MicroservicesProject\Services\Catalog\Course.Services.Catalog\obj\Debug\net5.0\Course.Services.Catalog.csproj.CoreCompileInputs.cache
+D:\.Net Projects\CategoryProject\MicroservicesProject\Services\Catalog\Course.Services.Catalog\obj\Debug\net5.0\Course.Services.Catalog.MvcApplicationPartsAssemblyInfo.cs
+D:\.Net Projects\CategoryProject\MicroservicesProject\Services\Catalog\Course.Services.Catalog\obj\Debug\net5.0\Course.Services.Catalog.MvcApplicationPartsAssemblyInfo.cache
+D:\Net Projects\CategoryProject\MicroservicesProject\Services\Catalog\Course.Services.Catalog\obj\Debug\net5.0\Course.Services.Catalog.GeneratedMSBuildEditorConfig.editorconfig
+D:\Net Projects\CategoryProject\MicroservicesProject\Services\Catalog\Course.Services.Catalog\obj\Debug\net5.0\Course.Services.Catalog.AssemblyInfoInputs.cache
+D:\Net Projects\CategoryProject\MicroservicesProject\Services\Catalog\Course.Services.Catalog\obj\Debug\net5.0\Course.Services.Catalog.AssemblyInfo.cs
+D:\Net Projects\CategoryProject\MicroservicesProject\Services\Catalog\Course.Services.Catalog\obj\Debug\net5.0\Course.Services.Catalog.csproj.CoreCompileInputs.cache
+D:\Net Projects\CategoryProject\MicroservicesProject\Services\Catalog\Course.Services.Catalog\obj\Debug\net5.0\Course.Services.Catalog.MvcApplicationPartsAssemblyInfo.cs
+D:\Net Projects\CategoryProject\MicroservicesProject\Services\Catalog\Course.Services.Catalog\obj\Debug\net5.0\Course.Services.Catalog.MvcApplicationPartsAssemblyInfo.cache
+D:\Net Projects\CategoryProject\MicroservicesProject\Services\Catalog\Course.Services.Catalog\obj\Debug\net5.0\scopedcss\bundle\Course.Services.Catalog.styles.css
+D:\Net Projects\CategoryProject\MicroservicesProject\Services\Catalog\Course.Services.Catalog\obj\Debug\net5.0\staticwebassets\Course.Services.Catalog.StaticWebAssets.Manifest.cache
+D:\Net Projects\CategoryProject\MicroservicesProject\Services\Catalog\Course.Services.Catalog\obj\Debug\net5.0\Course.Services.Catalog.RazorTargetAssemblyInfo.cache
+D:\Net Projects\CategoryProject\MicroservicesProject\Services\Catalog\Course.Services.Catalog\obj\Debug\net5.0\Course.Services.Catalog.csproj.CopyComplete
+D:\Net Projects\CategoryProject\MicroservicesProject\Services\Catalog\Course.Services.Catalog\obj\Debug\net5.0\appsettings.Development.json
+D:\Net Projects\CategoryProject\MicroservicesProject\Services\Catalog\Course.Services.Catalog\obj\Debug\net5.0\appsettings.json
+D:\Net Projects\CategoryProject\MicroservicesProject\Services\Catalog\Course.Services.Catalog\obj\Debug\net5.0\Course.Services.Catalog.exe
+D:\Net Projects\CategoryProject\MicroservicesProject\Services\Catalog\Course.Services.Catalog\obj\Debug\net5.0\Course.Services.Catalog.dll
+D:\Net Projects\CategoryProject\MicroservicesProject\Services\Catalog\Course.Services.Catalog\obj\Debug\net5.0\ref\Course.Services.Catalog.dll
+D:\Net Projects\CategoryProject\MicroservicesProject\Services\Catalog\Course.Services.Catalog\obj\Debug\net5.0\Course.Services.Catalog.pdb
+D:\Net Projects\CategoryProject\MicroservicesProject\Services\Catalog\Course.Services.Catalog\obj\Debug\net5.0\Course.Services.Catalog.deps.json
+D:\Net Projects\CategoryProject\MicroservicesProject\Services\Catalog\Course.Services.Catalog\obj\Debug\net5.0\Course.Services.Catalog.genruntimeconfig.cache
+D:\Net Projects\CategoryProject\MicroservicesProject\Services\Catalog\Course.Services.Catalog\obj\Debug\net5.0\Course.Services.Catalog.runtimeconfig.json
+D:\Net Projects\CategoryProject\MicroservicesProject\Services\Catalog\Course.Services.Catalog\obj\Debug\net5.0\Course.Services.Catalog.runtimeconfig.dev.json
+D:\Net Projects\CategoryProject\MicroservicesProject\Services\Catalog\Course.Services.Catalog\obj\Debug\net5.0\AutoMapper.dll
+D:\Net Projects\CategoryProject\MicroservicesProject\Services\Catalog\Course.Services.Catalog\obj\Debug\net5.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+D:\Net Projects\CategoryProject\MicroservicesProject\Services\Catalog\Course.Services.Catalog\obj\Debug\net5.0\DnsClient.dll
+D:\Net Projects\CategoryProject\MicroservicesProject\Services\Catalog\Course.Services.Catalog\obj\Debug\net5.0\Microsoft.DotNet.PlatformAbstractions.dll
+D:\Net Projects\CategoryProject\MicroservicesProject\Services\Catalog\Course.Services.Catalog\obj\Debug\net5.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Net Projects\CategoryProject\MicroservicesProject\Services\Catalog\Course.Services.Catalog\obj\Debug\net5.0\Microsoft.Extensions.DependencyModel.dll
+D:\Net Projects\CategoryProject\MicroservicesProject\Services\Catalog\Course.Services.Catalog\obj\Debug\net5.0\Microsoft.Extensions.Options.dll
+D:\Net Projects\CategoryProject\MicroservicesProject\Services\Catalog\Course.Services.Catalog\obj\Debug\net5.0\Microsoft.Extensions.Primitives.dll
+D:\Net Projects\CategoryProject\MicroservicesProject\Services\Catalog\Course.Services.Catalog\obj\Debug\net5.0\Microsoft.OpenApi.dll
+D:\Net Projects\CategoryProject\MicroservicesProject\Services\Catalog\Course.Services.Catalog\obj\Debug\net5.0\MongoDB.Bson.dll
+D:\Net Projects\CategoryProject\MicroservicesProject\Services\Catalog\Course.Services.Catalog\obj\Debug\net5.0\MongoDB.Driver.dll
+D:\Net Projects\CategoryProject\MicroservicesProject\Services\Catalog\Course.Services.Catalog\obj\Debug\net5.0\MongoDB.Driver.Core.dll
+D:\Net Projects\CategoryProject\MicroservicesProject\Services\Catalog\Course.Services.Catalog\obj\Debug\net5.0\MongoDB.Libmongocrypt.dll
+D:\Net Projects\CategoryProject\MicroservicesProject\Services\Catalog\Course.Services.Catalog\obj\Debug\net5.0\Newtonsoft.Json.dll
+D:\Net Projects\CategoryProject\MicroservicesProject\Services\Catalog\Course.Services.Catalog\obj\Debug\net5.0\SharpCompress.dll
+D:\Net Projects\CategoryProject\MicroservicesProject\Services\Catalog\Course.Services.Catalog\obj\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Net Projects\CategoryProject\MicroservicesProject\Services\Catalog\Course.Services.Catalog\obj\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Net Projects\CategoryProject\MicroservicesProject\Services\Catalog\Course.Services.Catalog\obj\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Net Projects\CategoryProject\MicroservicesProject\Services\Catalog\Course.Services.Catalog\obj\Debug\net5.0\System.Runtime.CompilerServices.Unsafe.dll
+D:\Net Projects\CategoryProject\MicroservicesProject\Services\Catalog\Course.Services.Catalog\obj\Debug\net5.0\runtimes\linux\native\libsnappy64.so
+D:\Net Projects\CategoryProject\MicroservicesProject\Services\Catalog\Course.Services.Catalog\obj\Debug\net5.0\runtimes\linux\native\libzstd.so
+D:\Net Projects\CategoryProject\MicroservicesProject\Services\Catalog\Course.Services.Catalog\obj\Debug\net5.0\runtimes\osx\native\libsnappy64.dylib
+D:\Net Projects\CategoryProject\MicroservicesProject\Services\Catalog\Course.Services.Catalog\obj\Debug\net5.0\runtimes\osx\native\libzstd.dylib
+D:\Net Projects\CategoryProject\MicroservicesProject\Services\Catalog\Course.Services.Catalog\obj\Debug\net5.0\runtimes\win\native\libzstd.dll
+D:\Net Projects\CategoryProject\MicroservicesProject\Services\Catalog\Course.Services.Catalog\obj\Debug\net5.0\runtimes\win\native\snappy32.dll
+D:\Net Projects\CategoryProject\MicroservicesProject\Services\Catalog\Course.Services.Catalog\obj\Debug\net5.0\runtimes\win\native\snappy64.dll
+D:\Net Projects\CategoryProject\MicroservicesProject\Services\Catalog\Course.Services.Catalog\obj\Debug\net5.0\runtimes\linux\native\libmongocrypt.so
+D:\Net Projects\CategoryProject\MicroservicesProject\Services\Catalog\Course.Services.Catalog\obj\Debug\net5.0\runtimes\osx\native\libmongocrypt.dylib
+D:\Net Projects\CategoryProject\MicroservicesProject\Services\Catalog\Course.Services.Catalog\obj\Debug\net5.0\runtimes\win\native\mongocrypt.dll
+D:\Net Projects\CategoryProject\MicroservicesProject\Services\Catalog\Course.Services.Catalog\obj\Debug\net5.0\Course.Shared.dll
+D:\Net Projects\CategoryProject\MicroservicesProject\Services\Catalog\Course.Services.Catalog\obj\Debug\net5.0\Course.Shared.pdb
+D:\DotNetProjects\CategoryProject\MicroservicesProject\Services\Catalog\Course.Services.Catalog\obj\Debug\net5.0\Course.Services.Catalog.csproj.AssemblyReference.cache
+D:\DotNetProjects\CategoryProject\MicroservicesProject\Services\Catalog\Course.Services.Catalog\obj\Debug\net5.0\Course.Services.Catalog.GeneratedMSBuildEditorConfig.editorconfig
+D:\DotNetProjects\CategoryProject\MicroservicesProject\Services\Catalog\Course.Services.Catalog\obj\Debug\net5.0\Course.Services.Catalog.AssemblyInfoInputs.cache
+D:\DotNetProjects\CategoryProject\MicroservicesProject\Services\Catalog\Course.Services.Catalog\obj\Debug\net5.0\Course.Services.Catalog.AssemblyInfo.cs
+D:\DotNetProjects\CategoryProject\MicroservicesProject\Services\Catalog\Course.Services.Catalog\obj\Debug\net5.0\Course.Services.Catalog.csproj.CoreCompileInputs.cache
+D:\DotNetProjects\CategoryProject\MicroservicesProject\Services\Catalog\Course.Services.Catalog\obj\Debug\net5.0\Course.Services.Catalog.MvcApplicationPartsAssemblyInfo.cs
+D:\DotNetProjects\CategoryProject\MicroservicesProject\Services\Catalog\Course.Services.Catalog\obj\Debug\net5.0\Course.Services.Catalog.MvcApplicationPartsAssemblyInfo.cache
+D:\DotNetProjects\CategoryProject\MicroservicesProject\Services\Catalog\Course.Services.Catalog\obj\Debug\net5.0\scopedcss\bundle\Course.Services.Catalog.styles.css
+D:\DotNetProjects\CategoryProject\MicroservicesProject\Services\Catalog\Course.Services.Catalog\obj\Debug\net5.0\staticwebassets\Course.Services.Catalog.StaticWebAssets.Manifest.cache
+D:\DotNetProjects\CategoryProject\MicroservicesProject\Services\Catalog\Course.Services.Catalog\obj\Debug\net5.0\Course.Services.Catalog.RazorTargetAssemblyInfo.cache
+D:\DotNetProjects\CategoryProject\MicroservicesProject\Services\Catalog\Course.Services.Catalog\obj\Debug\net5.0\Course.Services.Catalog.csproj.CopyComplete
+D:\DotNetProjects\CategoryProject\MicroservicesProject\Services\Catalog\Course.Services.Catalog\obj\Debug\net5.0\appsettings.Development.json
+D:\DotNetProjects\CategoryProject\MicroservicesProject\Services\Catalog\Course.Services.Catalog\obj\Debug\net5.0\appsettings.json
+D:\DotNetProjects\CategoryProject\MicroservicesProject\Services\Catalog\Course.Services.Catalog\obj\Debug\net5.0\Course.Services.Catalog.exe
+D:\DotNetProjects\CategoryProject\MicroservicesProject\Services\Catalog\Course.Services.Catalog\obj\Debug\net5.0\Course.Services.Catalog.dll
+D:\DotNetProjects\CategoryProject\MicroservicesProject\Services\Catalog\Course.Services.Catalog\obj\Debug\net5.0\ref\Course.Services.Catalog.dll
+D:\DotNetProjects\CategoryProject\MicroservicesProject\Services\Catalog\Course.Services.Catalog\obj\Debug\net5.0\Course.Services.Catalog.pdb
+D:\DotNetProjects\CategoryProject\MicroservicesProject\Services\Catalog\Course.Services.Catalog\obj\Debug\net5.0\Course.Services.Catalog.deps.json
+D:\DotNetProjects\CategoryProject\MicroservicesProject\Services\Catalog\Course.Services.Catalog\obj\Debug\net5.0\Course.Services.Catalog.genruntimeconfig.cache
+D:\DotNetProjects\CategoryProject\MicroservicesProject\Services\Catalog\Course.Services.Catalog\obj\Debug\net5.0\Course.Services.Catalog.runtimeconfig.json
+D:\DotNetProjects\CategoryProject\MicroservicesProject\Services\Catalog\Course.Services.Catalog\obj\Debug\net5.0\Course.Services.Catalog.runtimeconfig.dev.json
+D:\DotNetProjects\CategoryProject\MicroservicesProject\Services\Catalog\Course.Services.Catalog\obj\Debug\net5.0\AutoMapper.dll
+D:\DotNetProjects\CategoryProject\MicroservicesProject\Services\Catalog\Course.Services.Catalog\obj\Debug\net5.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+D:\DotNetProjects\CategoryProject\MicroservicesProject\Services\Catalog\Course.Services.Catalog\obj\Debug\net5.0\DnsClient.dll
+D:\DotNetProjects\CategoryProject\MicroservicesProject\Services\Catalog\Course.Services.Catalog\obj\Debug\net5.0\Microsoft.DotNet.PlatformAbstractions.dll
+D:\DotNetProjects\CategoryProject\MicroservicesProject\Services\Catalog\Course.Services.Catalog\obj\Debug\net5.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\DotNetProjects\CategoryProject\MicroservicesProject\Services\Catalog\Course.Services.Catalog\obj\Debug\net5.0\Microsoft.Extensions.DependencyModel.dll
+D:\DotNetProjects\CategoryProject\MicroservicesProject\Services\Catalog\Course.Services.Catalog\obj\Debug\net5.0\Microsoft.Extensions.Options.dll
+D:\DotNetProjects\CategoryProject\MicroservicesProject\Services\Catalog\Course.Services.Catalog\obj\Debug\net5.0\Microsoft.Extensions.Primitives.dll
+D:\DotNetProjects\CategoryProject\MicroservicesProject\Services\Catalog\Course.Services.Catalog\obj\Debug\net5.0\Microsoft.OpenApi.dll
+D:\DotNetProjects\CategoryProject\MicroservicesProject\Services\Catalog\Course.Services.Catalog\obj\Debug\net5.0\MongoDB.Bson.dll
+D:\DotNetProjects\CategoryProject\MicroservicesProject\Services\Catalog\Course.Services.Catalog\obj\Debug\net5.0\MongoDB.Driver.dll
+D:\DotNetProjects\CategoryProject\MicroservicesProject\Services\Catalog\Course.Services.Catalog\obj\Debug\net5.0\MongoDB.Driver.Core.dll
+D:\DotNetProjects\CategoryProject\MicroservicesProject\Services\Catalog\Course.Services.Catalog\obj\Debug\net5.0\MongoDB.Libmongocrypt.dll
+D:\DotNetProjects\CategoryProject\MicroservicesProject\Services\Catalog\Course.Services.Catalog\obj\Debug\net5.0\Newtonsoft.Json.dll
+D:\DotNetProjects\CategoryProject\MicroservicesProject\Services\Catalog\Course.Services.Catalog\obj\Debug\net5.0\SharpCompress.dll
+D:\DotNetProjects\CategoryProject\MicroservicesProject\Services\Catalog\Course.Services.Catalog\obj\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\DotNetProjects\CategoryProject\MicroservicesProject\Services\Catalog\Course.Services.Catalog\obj\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\DotNetProjects\CategoryProject\MicroservicesProject\Services\Catalog\Course.Services.Catalog\obj\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\DotNetProjects\CategoryProject\MicroservicesProject\Services\Catalog\Course.Services.Catalog\obj\Debug\net5.0\System.Runtime.CompilerServices.Unsafe.dll
+D:\DotNetProjects\CategoryProject\MicroservicesProject\Services\Catalog\Course.Services.Catalog\obj\Debug\net5.0\runtimes\linux\native\libsnappy64.so
+D:\DotNetProjects\CategoryProject\MicroservicesProject\Services\Catalog\Course.Services.Catalog\obj\Debug\net5.0\runtimes\linux\native\libzstd.so
+D:\DotNetProjects\CategoryProject\MicroservicesProject\Services\Catalog\Course.Services.Catalog\obj\Debug\net5.0\runtimes\osx\native\libsnappy64.dylib
+D:\DotNetProjects\CategoryProject\MicroservicesProject\Services\Catalog\Course.Services.Catalog\obj\Debug\net5.0\runtimes\osx\native\libzstd.dylib
+D:\DotNetProjects\CategoryProject\MicroservicesProject\Services\Catalog\Course.Services.Catalog\obj\Debug\net5.0\runtimes\win\native\libzstd.dll
+D:\DotNetProjects\CategoryProject\MicroservicesProject\Services\Catalog\Course.Services.Catalog\obj\Debug\net5.0\runtimes\win\native\snappy32.dll
+D:\DotNetProjects\CategoryProject\MicroservicesProject\Services\Catalog\Course.Services.Catalog\obj\Debug\net5.0\runtimes\win\native\snappy64.dll
+D:\DotNetProjects\CategoryProject\MicroservicesProject\Services\Catalog\Course.Services.Catalog\obj\Debug\net5.0\runtimes\linux\native\libmongocrypt.so
+D:\DotNetProjects\CategoryProject\MicroservicesProject\Services\Catalog\Course.Services.Catalog\obj\Debug\net5.0\runtimes\osx\native\libmongocrypt.dylib
+D:\DotNetProjects\CategoryProject\MicroservicesProject\Services\Catalog\Course.Services.Catalog\obj\Debug\net5.0\runtimes\win\native\mongocrypt.dll
+D:\DotNetProjects\CategoryProject\MicroservicesProject\Services\Catalog\Course.Services.Catalog\obj\Debug\net5.0\Course.Shared.dll
+D:\DotNetProjects\CategoryProject\MicroservicesProject\Services\Catalog\Course.Services.Catalog\obj\Debug\net5.0\Course.Shared.pdb

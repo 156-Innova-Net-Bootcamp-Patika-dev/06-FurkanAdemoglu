@@ -1,0 +1,20 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>net5.0</TargetFramework>
+    <BaseIntermediateOutputPath>D:\DotNetProjects\CategoryProject\MicroservicesProject\Services\Catalog\Course.Services.Catalog\obj</BaseIntermediateOutputPath>
+    <BaseOutputPath>D:\DotNetProjects\CategoryProject\MicroservicesProject\Services\Catalog\Course.Services.Catalog\obj</BaseOutputPath>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="AutoMapper.Extensions.Microsoft.DependencyInjection" Version="11.0.0" />
+    <PackageReference Include="Microsoft.AspNetCore.Authentication.JwtBearer" Version="5.0.4" />
+    <PackageReference Include="MongoDB.Driver" Version="2.14.1" />
+    <PackageReference Include="Swashbuckle.AspNetCore" Version="5.6.3" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\..\..\Shared\Course.Shared\Course.Shared.csproj" />
+  </ItemGroup>
+
+</Project>
